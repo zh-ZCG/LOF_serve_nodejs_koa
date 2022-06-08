@@ -1,0 +1,357 @@
+{
+    "address": [
+        {
+            "tmId": 1,
+            "tmName": "湖南"
+        },
+        {
+            "tmId": 2,
+            "tmName": "北京"
+        },
+        {
+            "tmId": 3,
+            "tmName": "广州"
+        },
+        {
+            "tmId": 4,
+            "tmName": "上海"
+        },
+        {
+            "tmId": 5,
+            "tmName": "深圳"
+        }
+    ],
+    "price": [
+        {
+            "prId": 1,
+            "prValue": "0-50"
+        },
+        {
+            "prId": 2,
+            "prValue": "51-100"
+        },
+        {
+            "prId": 3,
+            "prValue": "101-150"
+        },
+        {
+            "prId": 4,
+            "prValue": "151-200"
+        }
+    ],
+    "goodsList": [
+        {
+            "id": 1,
+            "defaultImg": "http://localhost:3000/images/1.jpg",
+            "title": "水仙花",
+            "price": "59",
+            "priceValue": "51-100",
+            "address": "湖南",
+            "categoryID": "1",
+            "categoryChildID": "1",
+            "categoryName": "春",
+            "categoryChildName": "水仙花",
+            "keyword": "水仙花"
+        },
+        {
+            "id": 2,
+            "defaultImg": "http://localhost:3000/images/2.jpg",
+            "title": "君子兰",
+            "price": "60",
+            "priceValue": "51-100",
+            "address": "广州",
+            "categoryID": "1",
+            "categoryChildID": "2",
+            "categoryName": "春",
+            "categoryChildName": "君子兰",
+            "keyword": "君子兰"
+        },
+        {
+            "id": 3,
+            "defaultImg": "http://localhost:3000/images/3.jpg",
+            "title": "牡丹花",
+            "price": "43",
+            "priceValue": "0-50",
+            "address": "深圳",
+            "categoryID": "1",
+            "categoryChildID": "3",
+            "categoryName": "春",
+            "categoryChildName": "牡丹花",
+            "keyword": "牡丹花"
+        },
+        {
+            "id": 4,
+            "defaultImg": "http://localhost:3000/images/4.jpg",
+            "title": "玫瑰花",
+            "price": "28",
+            "priceValue": "0-50",
+            "address": "北京",
+            "categoryID": "1",
+            "categoryChildID": "4",
+            "categoryName": "春",
+            "categoryChildName": "玫瑰花",
+            "keyword": "玫瑰花"
+        },
+        {
+            "id": 5,
+            "defaultImg": "http://localhost:3000/images/5.jpg",
+            "title": "百合花",
+            "price": "86",
+            "priceValue": "51-100",
+            "address": "北京",
+            "categoryID": "1",
+            "categoryChildID": "5",
+            "categoryName": "春",
+            "categoryChildName": "百合花",
+            "keyword": "百合花"
+        },
+        {
+            "id": 6,
+            "defaultImg": "http://localhost:3000/images/6.jpg",
+            "title": "郁金香",
+            "price": "91",
+            "priceValue": "51-100",
+            "address": "上海",
+            "categoryID": "1",
+            "categoryChildID": "6",
+            "categoryName": "春",
+            "categoryChildName": "郁金香",
+            "keyword": "郁金香"
+        },
+        {
+            "id": 7,
+            "defaultImg": "http://localhost:3000/images/7.jpg",
+            "title": "丁香花",
+            "price": "102",
+            "priceValue": "101-150",
+            "address": "上海",
+            "categoryID": "1",
+            "categoryChildID": "7",
+            "categoryName": "春",
+            "categoryChildName": "丁香花",
+            "keyword": "丁香花"
+        },
+        {
+            "id": 8,
+            "defaultImg": "http://localhost:3000/images/8.jpg",
+            "title": "栀子花",
+            "price": "94",
+            "priceValue": "51-100",
+            "address": "湖南",
+            "categoryID": "2",
+            "categoryChildID": "1",
+            "categoryName": "夏",
+            "categoryChildName": "栀子花",
+            "keyword": "栀子花"
+        },
+        {
+            "id": 9,
+            "defaultImg": "http://localhost:3000/images/9.jpg",
+            "title": "向日葵",
+            "price": "142",
+            "priceValue": "101-150",
+            "address": "上海",
+            "categoryID": "2",
+            "categoryChildID": "2",
+            "categoryName": "夏",
+            "categoryChildName": "向日葵",
+            "keyword": "向日葵"
+        },
+        {
+            "id": 10,
+            "defaultImg": "http://localhost:3000/images/10.jpg",
+            "title": "千日红",
+            "price": "36",
+            "priceValue": "0-50",
+            "address": "广州",
+            "categoryID": "2",
+            "categoryChildID": "3",
+            "categoryName": "夏",
+            "categoryChildName": "千日红",
+            "keyword": "千日红"
+        },
+        {
+            "id": 11,
+            "defaultImg": "http://localhost:3000/images/11.jpg",
+            "title": "荷花",
+            "price": "71",
+            "priceValue": "51-100",
+            "address": "广州",
+            "categoryID": "2",
+            "categoryChildID": "4",
+            "categoryName": "夏",
+            "categoryChildName": "荷花",
+            "keyword": "荷花"
+        },
+        {
+            "id": 12,
+            "defaultImg": "http://localhost:3000/images/12.jpg",
+            "title": "茉莉花",
+            "price": "48",
+            "priceValue": "0-50",
+            "address": "北京",
+            "categoryID": "2",
+            "categoryChildID": "5",
+            "categoryName": "夏",
+            "categoryChildName": "茉莉花",
+            "keyword": "茉莉花"
+        },
+        {
+            "id": 13,
+            "defaultImg": "http://localhost:3000/images/13.jpg",
+            "title": "菊花",
+            "price": "35",
+            "priceValue": "0-50",
+            "address": "上海",
+            "categoryID": "3",
+            "categoryChildID": "1",
+            "categoryName": "秋",
+            "categoryChildName": "菊花",
+            "keyword": "菊花"
+        },
+        {
+            "id": 14,
+            "defaultImg": "http://localhost:3000/images/14.jpg",
+            "title": "雁来红",
+            "price": "16",
+            "priceValue": "0-50",
+            "address": "上海",
+            "categoryID": "3",
+            "categoryChildID": "2",
+            "categoryName": "秋",
+            "categoryChildName": "雁来红",
+            "keyword": "雁来红"
+        },
+        {
+            "id": 15,
+            "defaultImg": "http://localhost:3000/images/15.jpg",
+            "title": "紫茉莉",
+            "price": "132",
+            "priceValue": "101-150",
+            "address": "湖南",
+            "categoryID": "3",
+            "categoryChildID": "3",
+            "categoryName": "秋",
+            "categoryChildName": "紫茉莉",
+            "keyword": "紫茉莉"
+        },
+        {
+            "id": 16,
+            "defaultImg": "http://localhost:3000/images/16.jpg",
+            "title": "芙蓉花",
+            "price": "75",
+            "priceValue": "51-100",
+            "address": "湖南",
+            "categoryID": "3",
+            "categoryChildID": "4",
+            "categoryName": "秋",
+            "categoryChildName": "芙蓉花",
+            "keyword": "芙蓉花"
+        },
+        {
+            "id": 17,
+            "defaultImg": "http://localhost:3000/images/17.jpg",
+            "title": "秋海棠",
+            "price": "185",
+            "priceValue": "151-200",
+            "address": "深圳",
+            "categoryID": "3",
+            "categoryChildID": "5",
+            "categoryName": "秋",
+            "categoryChildName": "秋海棠",
+            "keyword": "秋海棠"
+        },
+        {
+            "id": 18,
+            "defaultImg": "http://localhost:3000/images/18.jpg",
+            "title": "南天竹",
+            "price": "99",
+            "priceValue": "51-100",
+            "address": "深圳",
+            "categoryID": "4",
+            "categoryChildID": "1",
+            "categoryName": "冬",
+            "categoryChildName": "南天竹",
+            "keyword": "南天竹"
+        },
+        {
+            "id": 19,
+            "defaultImg": "http://localhost:3000/images/19.jpg",
+            "title": "水仙花",
+            "price": "148",
+            "priceValue": "101-150",
+            "address": "北京",
+            "categoryID": "4",
+            "categoryChildID": "2",
+            "categoryName": "冬",
+            "categoryChildName": "水仙花",
+            "keyword": "水仙花"
+        },
+        {
+            "id": 20,
+            "defaultImg": "http://localhost:3000/images/20.jpg",
+            "title": "四季海棠",
+            "price": "8",
+            "priceValue": "0-50",
+            "address": "上海",
+            "categoryID": "4",
+            "categoryChildID": "3",
+            "categoryName": "冬",
+            "categoryChildName": "四季海棠",
+            "keyword": "四季海棠"
+        },
+        {
+            "id": 21,
+            "defaultImg": "http://localhost:3000/images/21.jpg",
+            "title": "春鹃",
+            "price": "68",
+            "priceValue": "51-100",
+            "address": "湖南",
+            "categoryID": "4",
+            "categoryChildID": "4",
+            "categoryName": "冬",
+            "categoryChildName": "春鹃",
+            "keyword": "春鹃"
+        },
+        {
+            "id": 22,
+            "defaultImg": "http://localhost:3000/images/22.jpg",
+            "title": "春兰",
+            "price": "158",
+            "priceValue": "151-200",
+            "address": "广州",
+            "categoryID": "4",
+            "categoryChildID": "5",
+            "categoryName": "冬",
+            "categoryChildName": "春兰",
+            "keyword": "春兰"
+        },
+        {
+            "id": 23,
+            "defaultImg": "http://localhost:3000/images/23.jpg",
+            "title": "一品红",
+            "price": "88",
+            "priceValue": "51-100",
+            "address": "广州",
+            "categoryID": "4",
+            "categoryChildID": "6",
+            "categoryName": "冬",
+            "categoryChildName": "一品红",
+            "keyword": "一品红"
+        },
+        {
+            "id": 24,
+            "defaultImg": "http://localhost:3000/images/24.jpg",
+            "title": "山茶花",
+            "price": "132",
+            "priceValue": "101-150",
+            "address": "湖南",
+            "categoryID": "4",
+            "categoryChildID": "7",
+            "categoryName": "冬",
+            "categoryChildName": "山茶花",
+            "keyword": "山茶花"
+        }
+    ],
+    "total": 24
+}

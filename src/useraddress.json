@@ -1,0 +1,20 @@
+{
+    "code": 200,
+    "message": "成功",
+    "data": {
+        "records":
+            {
+                "phone":"18528304376",
+                "address":[
+                    {
+                        "addressName":"湖南",
+                        "userName":"赵承钢"
+                    },{
+                        "addressName": "广州",
+                        "userName": "赵承钢2"
+                    }
+                ]
+            }
+    },
+    "ok": true
+}

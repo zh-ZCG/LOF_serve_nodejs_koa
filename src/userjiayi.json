@@ -1,0 +1,29 @@
+[
+    {
+        "id": 4,
+        "price": "28",
+        "skuNum": 9,
+        "skuDefaultImg": "http://localhost:3000/images/4.jpg",
+        "skuName": "新叶烟中冉冉，轻香风外离离。朱英半染蝶翅，绿刺故牵人衣。",
+        "isChecked": 1,
+        "skuDesc": "玫瑰花"
+    },
+    {
+        "id": 11,
+        "price": "71",
+        "skuNum": 4,
+        "skuDefaultImg": "http://localhost:3000/images/11.jpg",
+        "skuName": "菱叶萦波荷飐风,荷花深处小船通。逢郎欲语低头笑,碧玉搔头落水中。",
+        "isChecked": 1,
+        "skuDesc": "荷花"
+    },
+    {
+        "id": 12,
+        "price": "48",
+        "skuNum": 8,
+        "skuDefaultImg": "http://localhost:3000/images/12.jpg",
+        "skuName": "麝脑龙涎韵不作，熏风移种自南州。谁家浴罢临妆女，爱把闲花插满头。",
+        "isChecked": 1,
+        "skuDesc": "茉莉花"
+    }
+]

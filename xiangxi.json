@@ -1,0 +1,916 @@
+{
+    "":[{
+            "valuesSkuJson": "{\"2\":2290,\"3\":1,\"4\":2,\"2|3\":2267,\"2|4\":2271}",
+            "price": "59",
+            "id": 1,
+            "spuSaleAttrList": [
+                {
+                    "id": 1,
+                    "spuId": "1",
+                    "baseSaleAttrId": "1",
+                    "saleAttrName": "颜色",
+                    "spuSaleAttrValueList": [
+                        {
+                            "id": 2,
+                            "spuId": "1",
+                            "baseSaleAttrId": "1",
+                            "saleAttrValueName": "白色",
+                            "saleAttrName": "颜色",
+                            "isChecked":"1"
+                
+                        }
+                    ]
+                }
+            ],
+            "skuInfo": {
+                "id": 1,
+                "spuId": "1",
+                "price": "59",
+                "skuName": "借水开花自一奇，水沉为骨玉为肌。 暗香已压荼蘼倒，只此寒梅无好枝。",
+                "skuDesc": "水仙花",
+                "tmId": "1",
+                "categoryID": "1",
+                "categoryChildID": "1",
+                "categoryName": "春",
+                "categoryChildName": "水仙花",
+                "skuDefaultImg": "http://localhost:3000/images/1.jpg",
+                "isSale": "1"
+            }
+        },
+        {
+            "valuesSkuJson": "{\"2\":2290,\"3\":1,\"4\":2,\"2|3\":2267,\"2|4\":2271}",
+            "price": "60",
+            "id": 2,
+            "spuSaleAttrList": [
+                {
+                    "id": 1,
+                    "spuId": "1",
+                    "baseSaleAttrId": "1",
+                    "saleAttrName": "颜色",
+                    "spuSaleAttrValueList": [
+                        {
+                            "id": 2,
+                            "spuId": "1",
+                            "baseSaleAttrId": "1",
+                            "saleAttrValueName": "橙色",
+                            "saleAttrName": "颜色",
+                            "isChecked": "1"
+                        }
+                    ]
+                }
+            ],
+            "skuInfo": {
+                "id": 2,
+                "spuId": "1",
+                "price": "60",
+                "skuName": "兰草堪同隐者心,自荣自萎白云深。春风岁岁生空谷,留得清香入素琴。",
+                "skuDesc": "君子兰",
+                "tmId": "1",
+                "categoryID": "1",
+                "categoryChildID": "2",
+                "categoryName": "春",
+                "categoryChildName": "君子兰",
+                "skuDefaultImg": "http://localhost:3000/images/2.jpg",
+                "isSale": "1"
+            }
+        },
+        {
+            "valuesSkuJson": "{\"2\":2290,\"3\":1,\"4\":2,\"2|3\":2267,\"2|4\":2271}",
+            "price": "43",
+            "id": 3,
+            "spuSaleAttrList": [
+                {
+                    "id": 1,
+                    "spuId": "1",
+                    "baseSaleAttrId": "1",
+                    "saleAttrName": "颜色",
+                    "spuSaleAttrValueList": [
+                        {
+                            "id": 2,
+                            "spuId": "1",
+                            "baseSaleAttrId": "1",
+                            "saleAttrValueName": "红色",
+                            "saleAttrName": "颜色",
+                            "isChecked": "1"
+                        }
+                    ]
+                }
+            ],
+            "skuInfo": {
+                "id": 3,
+                "spuId": "1",
+                "price": "43",
+                "skuName": "庭前芍药妖无格，池上芙蕖净少情。唯有牡丹真国色，花开时节动京城。",
+                "skuDesc": "牡丹花",
+                "tmId": "1",
+                "categoryID": "1",
+                "categoryChildID": "3",
+                "categoryName": "春",
+                "categoryChildName": "牡丹花",
+                "skuDefaultImg": "http://localhost:3000/images/3.jpg",
+                "isSale": "1"
+            }
+        },
+        {
+            "valuesSkuJson": "{\"2\":2290,\"3\":1,\"4\":2,\"2|3\":2267,\"2|4\":2271}",
+            "price": "28",
+            "id": 4,
+            "spuSaleAttrList": [
+                {
+                    "id": 1,
+                    "spuId": "1",
+                    "baseSaleAttrId": "1",
+                    "saleAttrName": "颜色",
+                    "spuSaleAttrValueList": [
+                        {
+                            "id": 2,
+                            "spuId": "1",
+                            "baseSaleAttrId": "1",
+                            "saleAttrValueName": "白色",
+                            "saleAttrName": "颜色",
+                            "isChecked": "1"
+                        },
+                        {
+                            "id": 2,
+                            "spuId": "1",
+                            "baseSaleAttrId": "1",
+                            "saleAttrValueName": "红色",
+                            "saleAttrName": "颜色",
+                            "isChecked": "0"
+                        }
+                    ]
+                }
+            ],
+            "skuInfo": {
+                "id": 4,
+                "spuId": "1",
+                "price": "28",
+                "skuName": "新叶烟中冉冉，轻香风外离离。朱英半染蝶翅，绿刺故牵人衣。",
+                "skuDesc": "玫瑰花",
+                "tmId": "1",
+                "categoryID": "1",
+                "categoryChildID": "4",
+                "categoryName": "春",
+                "categoryChildName": "玫瑰花",
+                "skuDefaultImg": "http://localhost:3000/images/4.jpg",
+                "isSale": "1"
+            }
+        },
+        {
+        "valuesSkuJson": "{\"2\":2290,\"3\":1,\"4\":2,\"2|3\":2267,\"2|4\":2271}",
+        "price": "86",
+        "id": 5,
+        "spuSaleAttrList": [
+            {
+                "id": 1,
+                "spuId": "1",
+                "baseSaleAttrId": "1",
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 2,
+                        "spuId": "1",
+                        "baseSaleAttrId": "1",
+                        "saleAttrValueName": "白色",
+                        "saleAttrName": "颜色",
+                        "isChecked": "1"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": 5,
+            "spuId": "1",
+            "price": "86",
+            "skuName": "荷春光之余照，托阳山之峻趾，比蓂荚之能连，引芝芳而自拟。",
+            "skuDesc": "百合花",
+            "tmId": "1",
+            "categoryID": "1",
+            "categoryChildID": "5",
+            "categoryName": "春",
+            "categoryChildName": "百合花",
+            "skuDefaultImg": "http://localhost:3000/images/5.jpg",
+            "isSale": "1"
+        }
+    },
+    {
+        "valuesSkuJson": "{\"2\":2290,\"3\":1,\"4\":2,\"2|3\":2267,\"2|4\":2271}",
+        "price": "91",
+        "id": 6,
+        "spuSaleAttrList": [
+            {
+                "id": 1,
+                "spuId": "1",
+                "baseSaleAttrId": "1",
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 2,
+                        "spuId": "1",
+                        "baseSaleAttrId": "1",
+                        "saleAttrValueName": "白色",
+                        "saleAttrName": "颜色",
+                        "isChecked": "1"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": 6,
+            "spuId": "1",
+            "price": "91",
+            "skuName": "兰陵美酒郁金香,玉碗盛来琥珀光。 但使主人能醉客,不知何处是他乡。",
+            "skuDesc": "郁金香",
+            "tmId": "1",
+            "categoryID": "1",
+            "categoryChildID": "6",
+            "categoryName": "春",
+            "categoryChildName": "郁金香",
+            "skuDefaultImg": "http://localhost:3000/images/6.jpg",
+            "isSale": "1"
+        }
+    },
+    {
+        "valuesSkuJson": "{\"2\":2290,\"3\":1,\"4\":2,\"2|3\":2267,\"2|4\":2271}",
+        "price": "102",
+        "id": 7,
+        "spuSaleAttrList": [
+            {
+                "id": 1,
+                "spuId": "1",
+                "baseSaleAttrId": "1",
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 2,
+                        "spuId": "1",
+                        "baseSaleAttrId": "1",
+                        "saleAttrValueName": "白色",
+                        "saleAttrName": "颜色",
+                        "isChecked": "1"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": 7,
+            "spuId": "1",
+            "price": "102",
+            "skuName": "楼上黄昏欲望休,玉梯横绝月中钩。芭蕉不展丁香结,同向春风各自愁",
+            "skuDesc": "丁香花",
+            "tmId": "1",
+            "categoryID": "1",
+            "categoryChildID": "7",
+            "categoryName": "春",
+            "categoryChildName": "丁香花",
+            "skuDefaultImg": "http://localhost:3000/images/7.jpg",
+            "isSale": "1"
+        }
+    },
+    {
+        "valuesSkuJson": "{\"2\":2290,\"3\":1,\"4\":2,\"2|3\":2267,\"2|4\":2271}",
+        "price": "94",
+        "id": 8,
+        "spuSaleAttrList": [
+            {
+                "id": 1,
+                "spuId": "1",
+                "baseSaleAttrId": "1",
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 2,
+                        "spuId": "1",
+                        "baseSaleAttrId": "1",
+                        "saleAttrValueName": "白色",
+                        "saleAttrName": "颜色",
+                        "isChecked": "1"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": 8,
+            "spuId": "1",
+            "price": "94",
+            "skuName": "庭前栀子树，四畔有桠枝。未结黄金子，先开白玉花。",
+            "skuDesc": "栀子花",
+            "tmId": "1",
+            "categoryID": "2",
+            "categoryChildID": "1",
+            "categoryName": "夏",
+            "categoryChildName": "栀子花",
+            "skuDefaultImg": "http://localhost:3000/images/8.jpg",
+            "isSale": "1"
+        }
+    },
+    {
+        "valuesSkuJson": "{\"2\":2290,\"3\":1,\"4\":2,\"2|3\":2267,\"2|4\":2271}",
+        "price": "142",
+        "id": 9,
+        "spuSaleAttrList": [
+            {
+                "id": 1,
+                "spuId": "1",
+                "baseSaleAttrId": "1",
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 2,
+                        "spuId": "1",
+                        "baseSaleAttrId": "1",
+                        "saleAttrValueName": "黄色",
+                        "saleAttrName": "颜色",
+                        "isChecked": "1"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": 9,
+            "spuId": "1",
+            "price": "142",
+            "skuName": "更无柳絮因风起，惟有葵花向日倾。",
+            "skuDesc": "向日葵",
+            "tmId": "1",
+            "categoryID": "2",
+            "categoryChildID": "2",
+            "categoryName": "夏",
+            "categoryChildName": "向日葵",
+            "skuDefaultImg": "http://localhost:3000/images/9.jpg",
+            "isSale": "1"
+        }
+    },
+    {
+        "valuesSkuJson": "{\"2\":2290,\"3\":1,\"4\":2,\"2|3\":2267,\"2|4\":2271}",
+        "price": "36",
+        "id": 10,
+        "spuSaleAttrList": [
+            {
+                "id": 1,
+                "spuId": "1",
+                "baseSaleAttrId": "1",
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 2,
+                        "spuId": "1",
+                        "baseSaleAttrId": "1",
+                        "saleAttrValueName": "紫红色",
+                        "saleAttrName": "颜色",
+                        "isChecked": "1"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": 10,
+            "spuId": "1",
+            "price": "36",
+            "skuName": "漫说花无百日红，谁知花不与人同。何由觅得中山酒，花正开时酒正中。",
+            "skuDesc": "千日红",
+            "tmId": "1",
+            "categoryID": "2",
+            "categoryChildID": "3",
+            "categoryName": "夏",
+            "categoryChildName": "千日红",
+            "skuDefaultImg": "http://localhost:3000/images/10.jpg",
+            "isSale": "1"
+        }
+    },
+    {
+        "valuesSkuJson": "{\"2\":2290,\"3\":1,\"4\":2,\"2|3\":2267,\"2|4\":2271}",
+        "price": "71",
+        "id": 11,
+        "spuSaleAttrList": [
+            {
+                "id": 1,
+                "spuId": "1",
+                "baseSaleAttrId": "1",
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 2,
+                        "spuId": "1",
+                        "baseSaleAttrId": "1",
+                        "saleAttrValueName": "红色",
+                        "saleAttrName": "颜色",
+                        "isChecked": "1"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": 11,
+            "spuId": "1",
+            "price": "71",
+            "skuName": "菱叶萦波荷飐风,荷花深处小船通。逢郎欲语低头笑,碧玉搔头落水中。",
+            "skuDesc": "荷花",
+            "tmId": "1",
+            "categoryID": "2",
+            "categoryChildID": "4",
+            "categoryName": "夏",
+            "categoryChildName": "荷花",
+            "skuDefaultImg": "http://localhost:3000/images/11.jpg",
+            "isSale": "1"
+        }
+    },
+    {
+        "valuesSkuJson": "{\"2\":2290,\"3\":1,\"4\":2,\"2|3\":2267,\"2|4\":2271}",
+        "price": "48",
+        "id": 12,
+        "spuSaleAttrList": [
+            {
+                "id": 1,
+                "spuId": "1",
+                "baseSaleAttrId": "1",
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 2,
+                        "spuId": "1",
+                        "baseSaleAttrId": "1",
+                        "saleAttrValueName": "白色",
+                        "saleAttrName": "颜色",
+                        "isChecked": "1"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": 12,
+            "spuId": "1",
+            "price": "48",
+            "skuName": "麝脑龙涎韵不作，熏风移种自南州。谁家浴罢临妆女，爱把闲花插满头。",
+            "skuDesc": "茉莉花",
+            "tmId": "1",
+            "categoryID": "2",
+            "categoryChildID": "5",
+            "categoryName": "夏",
+            "categoryChildName": "茉莉花",
+            "skuDefaultImg": "http://localhost:3000/images/12.jpg",
+            "isSale": "1"
+        }
+    },
+    {
+        "valuesSkuJson": "{\"2\":2290,\"3\":1,\"4\":2,\"2|3\":2267,\"2|4\":2271}",
+        "price": "35",
+        "id": 13,
+        "spuSaleAttrList": [
+            {
+                "id": 1,
+                "spuId": "1",
+                "baseSaleAttrId": "1",
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 2,
+                        "spuId": "1",
+                        "baseSaleAttrId": "1",
+                        "saleAttrValueName": "黄色",
+                        "saleAttrName": "颜色",
+                        "isChecked": "1"
+                    },
+                    {
+                        "id": 3,
+                        "spuId": "1",
+                        "baseSaleAttrId": "1",
+                        "saleAttrValueName": "白色",
+                        "saleAttrName": "颜色",
+                        "isChecked": "0"
+                    },
+                    {
+                        "id": 4,
+                        "spuId": "1",
+                        "baseSaleAttrId": "1",
+                        "saleAttrValueName": "红色",
+                        "saleAttrName": "颜色",
+                        "isChecked": "0"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": 13,
+            "spuId": "1",
+            "price": "35",
+            "skuName": "夭红过眼随荣谢,菊秀兰香自占春。",
+            "skuDesc": "菊花",
+            "tmId": "1",
+            "categoryID": "3",
+            "categoryChildID": "1",
+            "categoryName": "秋",
+            "categoryChildName": "菊花",
+            "skuDefaultImg": "http://localhost:3000/images/13.jpg",
+            "isSale": "1"
+        }
+    },
+    {
+        "valuesSkuJson": "{\"2\":2290,\"3\":1,\"4\":2,\"2|3\":2267,\"2|4\":2271}",
+        "price": "16",
+        "id": 14,
+        "spuSaleAttrList": [
+            {
+                "id": 1,
+                "spuId": "1",
+                "baseSaleAttrId": "1",
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 2,
+                        "spuId": "1",
+                        "baseSaleAttrId": "1",
+                        "saleAttrValueName": "白色",
+                        "saleAttrName": "颜色",
+                        "isChecked": "1"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": 14,
+            "spuId": "1",
+            "price": "16",
+            "skuName": "落落云中雁，亭亭阶下草。草心将变红，雁声来已早。",
+            "skuDesc": "雁来红",
+            "tmId": "1",
+            "categoryID": "3",
+            "categoryChildID": "2",
+            "categoryName": "秋",
+            "categoryChildName": "雁来红",
+            "skuDefaultImg": "http://localhost:3000/images/14.jpg",
+            "isSale": "1"
+        }
+    },
+    {
+        "valuesSkuJson": "{\"2\":2290,\"3\":1,\"4\":2,\"2|3\":2267,\"2|4\":2271}",
+        "price": "132",
+        "id": 15,
+        "spuSaleAttrList": [
+            {
+                "id": 1,
+                "spuId": "1",
+                "baseSaleAttrId": "1",
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 2,
+                        "spuId": "1",
+                        "baseSaleAttrId": "1",
+                        "saleAttrValueName": "紫色",
+                        "saleAttrName": "颜色",
+                        "isChecked": "1"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": 15,
+            "spuId": "1",
+            "price": "132",
+            "skuName": "乌银白镪紫磨金,斫出纤纤茉莉簪。斜插女阿褵褷髻,晚妆朝月拜深深。",
+            "skuDesc": "紫茉莉",
+            "tmId": "1",
+            "categoryID": "3",
+            "categoryChildID": "3",
+            "categoryName": "秋",
+            "categoryChildName": "紫茉莉",
+            "skuDefaultImg": "http://localhost:3000/images/15.jpg",
+            "isSale": "1"
+        }
+    },
+    {
+        "valuesSkuJson": "{\"2\":2290,\"3\":1,\"4\":2,\"2|3\":2267,\"2|4\":2271}",
+        "price": "75",
+        "id": 16,
+        "spuSaleAttrList": [
+            {
+                "id": 1,
+                "spuId": "1",
+                "baseSaleAttrId": "1",
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 2,
+                        "spuId": "1",
+                        "baseSaleAttrId": "1",
+                        "saleAttrValueName": "白色",
+                        "saleAttrName": "颜色",
+                        "isChecked": "1"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": 16,
+            "spuId": "1",
+            "price": "75",
+            "skuName": "微风摇紫叶，轻露拂朱房。中池所以绿，待我泛红光。",
+            "skuDesc": "芙蓉花",
+            "tmId": "1",
+            "categoryID": "3",
+            "categoryChildID": "4",
+            "categoryName": "秋",
+            "categoryChildName": "芙蓉花",
+            "skuDefaultImg": "http://localhost:3000/images/16.jpg",
+            "isSale": "1"
+        }
+    },
+    {
+        "valuesSkuJson": "{\"2\":2290,\"3\":1,\"4\":2,\"2|3\":2267,\"2|4\":2271}",
+        "price": "185",
+        "id": 17,
+        "spuSaleAttrList": [
+            {
+                "id": 1,
+                "spuId": "1",
+                "baseSaleAttrId": "1",
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 2,
+                        "spuId": "1",
+                        "baseSaleAttrId": "1",
+                        "saleAttrValueName": "白色",
+                        "saleAttrName": "颜色",
+                        "isChecked": "1"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": 17,
+            "spuId": "1",
+            "price": "185",
+            "skuName": "一从梅粉褪残妆，涂抹新红上海棠。开到荼縻花事了，丝丝夭棘出莓墙。",
+            "skuDesc": "秋海棠",
+            "tmId": "1",
+            "categoryID": "3",
+            "categoryChildID": "5",
+            "categoryName": "秋",
+            "categoryChildName": "秋海棠",
+            "skuDefaultImg": "http://localhost:3000/images/17.jpg",
+            "isSale": "1"
+        }
+    },
+    {
+        "valuesSkuJson": "{\"2\":2290,\"3\":1,\"4\":2,\"2|3\":2267,\"2|4\":2271}",
+        "price": "99",
+        "id": 18,
+        "spuSaleAttrList": [
+            {
+                "id": 1,
+                "spuId": "1",
+                "baseSaleAttrId": "1",
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 2,
+                        "spuId": "1",
+                        "baseSaleAttrId": "1",
+                        "saleAttrValueName": "红色",
+                        "saleAttrName": "颜色",
+                        "isChecked": "1"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": 18,
+            "spuId": "1",
+            "price": "99",
+            "skuName": "琼节高吹宿风枝，风流交我立忘归。最怜瑟瑟斜阳下，花影相和满客衣。",
+            "skuDesc": "南天竹",
+            "tmId": "1",
+            "categoryID": "4",
+            "categoryChildID": "1",
+            "categoryName": "冬",
+            "categoryChildName": "南天竹",
+            "skuDefaultImg": "http://localhost:3000/images/18.jpg",
+            "isSale": "1"
+        }
+    },
+    {
+        "valuesSkuJson": "{\"2\":2290,\"3\":1,\"4\":2,\"2|3\":2267,\"2|4\":2271}",
+        "price": "148",
+        "id": 19,
+        "spuSaleAttrList": [
+            {
+                "id": 1,
+                "spuId": "1",
+                "baseSaleAttrId": "1",
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 2,
+                        "spuId": "1",
+                        "baseSaleAttrId": "1",
+                        "saleAttrValueName": "白色",
+                        "saleAttrName": "颜色",
+                        "isChecked": "1"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": 19,
+            "spuId": "1",
+            "price": "148",
+            "skuName": "水客夜骑红鲤鱼，赤鸾双鹤蓬瀛书。轻尘不起雨新霁，万里孤光含碧虚。",
+            "skuDesc": "水仙花",
+            "tmId": "1",
+            "categoryID": "4",
+            "categoryChildID": "2",
+            "categoryName": "冬",
+            "categoryChildName": "水仙花",
+            "skuDefaultImg": "http://localhost:3000/images/19.jpg",
+            "isSale": "1"
+        }
+    },
+    {
+        "valuesSkuJson": "{\"2\":2290,\"3\":1,\"4\":2,\"2|3\":2267,\"2|4\":2271}",
+        "price": "8",
+        "id": 20,
+        "spuSaleAttrList": [
+            {
+                "id": 1,
+                "spuId": "1",
+                "baseSaleAttrId": "1",
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 2,
+                        "spuId": "1",
+                        "baseSaleAttrId": "1",
+                        "saleAttrValueName": "红色",
+                        "saleAttrName": "颜色",
+                        "isChecked": "1"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": 20,
+            "spuId": "1",
+            "price": "8",
+            "skuName": "枝间新绿一重重， 小蕾深藏数点红。爱惜芳心莫轻吐， 且教桃李闹春风。",
+            "skuDesc": "四季海棠",
+            "tmId": "1",
+            "categoryID": "4",
+            "categoryChildID": "3",
+            "categoryName": "冬",
+            "categoryChildName": "四季海棠",
+            "skuDefaultImg": "http://localhost:3000/images/20.jpg",
+            "isSale": "1"
+        }
+    },
+    {
+        "valuesSkuJson": "{\"2\":2290,\"3\":1,\"4\":2,\"2|3\":2267,\"2|4\":2271}",
+        "price": "68",
+        "id": 21,
+        "spuSaleAttrList": [
+            {
+                "id": 1,
+                "spuId": "1",
+                "baseSaleAttrId": "1",
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 2,
+                        "spuId": "1",
+                        "baseSaleAttrId": "1",
+                        "saleAttrValueName": "红色",
+                        "saleAttrName": "颜色",
+                        "isChecked": "1"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": 21,
+            "spuId": "1",
+            "price": "68",
+            "skuName": "何须名苑看春风，一路山花不负侬。日日锦江呈锦样，清溪倒照映山红。",
+            "skuDesc": "春鹃",
+            "tmId": "1",
+            "categoryID": "4",
+            "categoryChildID": "4",
+            "categoryName": "冬",
+            "categoryChildName": "春鹃",
+            "skuDefaultImg": "http://localhost:3000/images/21.jpg",
+            "isSale": "1"
+        }
+    },
+    {
+        "valuesSkuJson": "{\"2\":2290,\"3\":1,\"4\":2,\"2|3\":2267,\"2|4\":2271}",
+        "price": "158",
+        "id": 22,
+        "spuSaleAttrList": [
+            {
+                "id": 1,
+                "spuId": "1",
+                "baseSaleAttrId": "1",
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 2,
+                        "spuId": "1",
+                        "baseSaleAttrId": "1",
+                        "saleAttrValueName": "绿色",
+                        "saleAttrName": "颜色",
+                        "isChecked": "1"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": 22,
+            "spuId": "1",
+            "price": "158",
+            "skuName": "兰溪春尽碧泱泱，映水兰花雨发香。",
+            "skuDesc": "春兰",
+            "tmId": "1",
+            "categoryID": "4",
+            "categoryChildID": "5",
+            "categoryName": "冬",
+            "categoryChildName": "春兰",
+            "skuDefaultImg": "http://localhost:3000/images/22.jpg",
+            "isSale": "1"
+        }
+    },
+    {
+        "valuesSkuJson": "{\"2\":2290,\"3\":1,\"4\":2,\"2|3\":2267,\"2|4\":2271}",
+        "price": "88",
+        "id": 23,
+        "spuSaleAttrList": [
+            {
+                "id": 1,
+                "spuId": "1",
+                "baseSaleAttrId": "1",
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 2,
+                        "spuId": "1",
+                        "baseSaleAttrId": "1",
+                        "saleAttrValueName": "红色",
+                        "saleAttrName": "颜色",
+                        "isChecked": "1"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": 23,
+            "spuId": "1",
+            "price": "88",
+            "skuName": "百花开后傲西风,来殿群芳一品红。",
+            "skuDesc": "一品红",
+            "tmId": "1",
+            "categoryID": "4",
+            "categoryChildID": "6",
+            "categoryName": "冬",
+            "categoryChildName": "一品红",
+            "skuDefaultImg": "http://localhost:3000/images/23.jpg",
+            "isSale": "1"
+        }
+    },
+    {
+        "valuesSkuJson": "{\"2\":2290,\"3\":1,\"4\":2,\"2|3\":2267,\"2|4\":2271}",
+        "price": "132",
+        "id": 24,
+        "spuSaleAttrList": [
+            {
+                "id": 1,
+                "spuId": "1",
+                "baseSaleAttrId": "1",
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 2,
+                        "spuId": "1",
+                        "baseSaleAttrId": "1",
+                        "saleAttrValueName": "红白色",
+                        "saleAttrName": "颜色",
+                        "isChecked": "1"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": 24,
+            "spuId": "1",
+            "price": "132",
+            "skuName": "山茶相对花谁栽，细雨无人我独来。说似与君君不见，烂红如火雪中开。",
+            "skuDesc": "山茶花",
+            "tmId": "1",
+            "categoryID": "4",
+            "categoryChildID": "7",
+            "categoryName": "冬",
+            "categoryChildName": "山茶花",
+            "skuDefaultImg": "http://localhost:3000/images/24.jpg",
+            "isSale": "1"
+        }
+    }
+]
+}

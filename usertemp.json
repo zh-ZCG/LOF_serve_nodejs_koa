@@ -1,0 +1,21 @@
+{
+    "data":[
+        {
+            "usertempgoodslist":[
+            {
+                "id": 1,
+                "userId": "eef84fd5-dc8d-4778-bac9-35790c87f2b9",
+                "price": "59",
+                "skuNum": 5,
+                "skuDefaultImg": "http://localhost:3000/images/1.jpg",
+                "skuName": "借水开花自一奇，水沉为骨玉为肌。 暗香已压荼蘼倒，只此寒梅无好枝。",
+                "isChecked": 1,
+                "skuDesc": "水仙花"
+            }
+        
+        
+        
+        ]
+        }
+    ]
+}
